@@ -77,4 +77,4 @@ This project is for educational purposes.
 
 ---
 
-**Enjoy safe and
+**Enjoy safe and simple file protection!**
